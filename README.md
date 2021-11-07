@@ -6,6 +6,9 @@ While the research does suggest clone size, honey bees, bumble bees, mining bees
 
 Kindly do refer to the Jupyter Notebook for clearer justifications.
 
+### Multiple Linear Regression Equation to Predict Wild Blueberry Yield
+427.88803625 = 11788.02571824(X Fruit Set) - 31210.54764543(X Fruit Mass) + 376.04195615(X Seeds)
+
 ### Data Sources 
 1) Mendeley Data: https://data.mendeley.com/datasets/p5hvjzsvn8/1
 2) Science Direct / Computers and Electronics in Agriculture: https://www.sciencedirect.com/science/article/abs/pii/S016816992031156X?via%3Dihub
