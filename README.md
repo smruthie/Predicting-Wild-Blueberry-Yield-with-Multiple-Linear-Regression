@@ -6,6 +6,8 @@ While the research does suggest clone size, honey bees, bumble bees, mining bees
 
 Kindly do refer to the Jupyter Notebook for clearer justifications.
 
+P.S. I do not know the units of these variables! (Also lazy to look them up fully)
+
 ### Data Sources 
 1) Mendeley Data: https://data.mendeley.com/datasets/p5hvjzsvn8/1
 2) Science Direct / Computers and Electronics in Agriculture: https://www.sciencedirect.com/science/article/abs/pii/S016816992031156X?via%3Dihub
