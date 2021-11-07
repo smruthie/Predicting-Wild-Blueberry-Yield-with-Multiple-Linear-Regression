@@ -6,9 +6,9 @@ While the research does suggest clone size, honey bees, bumble bees, mining bees
 
 Kindly do refer to the Jupyter Notebook for clearer justifications.
 
-Data License: https://opendatacommons.org/licenses/dbcl/1-0/.
-
 ### Data Sources 
 1) Mendeley Data: https://data.mendeley.com/datasets/p5hvjzsvn8/1
 2) Science Direct / Computers and Electronics in Agriculture: https://www.sciencedirect.com/science/article/abs/pii/S016816992031156X?via%3Dihub
 3) Kaggle: https://www.kaggle.com/saurabhshahane/wild-blueberry-yield-prediction
+
+Data License: https://opendatacommons.org/licenses/dbcl/1-0/.
