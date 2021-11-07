@@ -4,10 +4,9 @@ The "Wild Blueberry Pollination Simulation Data" has a couple of potential predi
 
 While the research does suggest clone size, honey bees, bumble bees, mining bees (Andrena), mason bees (Osmia), maximum upper-temperature range, and raining days as the best predictors of Wild Blueberry yield, these predictors would not be appropriate in a linear regression model as their scatterplots do not suggest a linear relationship to Wild Blueberry yield. Amusingly, these predictors contributed to a stronger R-Squared value for the MLR model despite their absence of linearity. However, fruit set, fruit mass, and seeds show a strong linear relationship to yield in scatterplots, and also contributes to a strong R-Squared value with negligible reduction. In this sense, they're more appropriate for a *multiple linear regression* model predicting Wild Blueberry yield.
 
-Kindly do refer to the Jupyter Notebook for clearer justifications.
+Why did I choose a multiple linear regression over other models? I just felt like :')
 
-### Multiple Linear Regression Equation to Predict Wild Blueberry Yield
-427.88803625 = 11788.02571824(X Fruit Set) - 31210.54764543(X Fruit Mass) + 376.04195615(X Seeds)
+Kindly do refer to the Jupyter Notebook for clearer justifications.
 
 ### Data Sources 
 1) Mendeley Data: https://data.mendeley.com/datasets/p5hvjzsvn8/1
