@@ -6,7 +6,7 @@ While the research does suggest clone size, honey bees, bumble bees, mining bees
 
 Kindly do refer to the Jupyter Notebook for clearer justifications.
 
-Why did I choose a multiple linear regression over other models? I just felt like :')
+Why did I choose multiple linear regression over other models? I just felt like :')
 
 ### Data Sources 
 1) Mendeley Data: https://data.mendeley.com/datasets/p5hvjzsvn8/1
