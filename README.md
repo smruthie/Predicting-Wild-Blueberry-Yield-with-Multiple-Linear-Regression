@@ -6,7 +6,7 @@ While the research does suggest clone size, honey bees, bumble bees, mining bees
 
 Kindly do refer to the Jupyter Notebook for clearer justifications.
 
-I'm looking forward to doing more statistical analyses on this model. I'll update once it's done!
+I'm looking forward to doing more statistical analyses on this model, as I know that I can't completely depend on bivariate scatterplots for a multivariate regression. I'll update once it's done!
 
 ### Data Sources 
 1) Mendeley Data: https://data.mendeley.com/datasets/p5hvjzsvn8/1
